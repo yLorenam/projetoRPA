@@ -1,6 +1,6 @@
 # Protótipo de Automação de Faturamento e Emissão de Notas Fiscais
 
-Este projeto é um **protótipo de automação de faturamento** que simula o processo de integração financeira, cálculo de impostos, emissão de notas fiscais (via API ou RPA), geração de documentos HTML/XML e registro em ERP.
+Este projeto é um **protótipo de automação de faturamento** que simula o processo de integração financeira, cálculo de impostos, emissão de notas fiscais (via API ou RPA), geração de documentos HTML/XML, envio de e-mail e registro em ERP.
 
 ## Funcionalidades
 
