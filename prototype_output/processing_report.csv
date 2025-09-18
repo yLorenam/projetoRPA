@@ -1,0 +1,4 @@
+sale_id,status,emission_method,financial_id,erp_id,xml_path,html_path,email_sent,total_with_taxes
+S1001,success,api,FIN-S1001-5767,ERP-S1001-538,prototype_output\2025\09\nota_S1001.xml,prototype_output\2025\09\nota_S1001.html,True,1527.0
+S1002,success,api,FIN-S1002-5252,ERP-S1002-629,prototype_output\2025\09\nota_S1002.xml,prototype_output\2025\09\nota_S1002.html,True,446.01
+S1003,success,api,FIN-S1003-1328,ERP-S1003-413,prototype_output\2025\09\nota_S1003.xml,prototype_output\2025\09\nota_S1003.html,True,9925.5
